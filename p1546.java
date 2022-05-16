@@ -3,7 +3,6 @@ package algo;
 import java.sql.Array;
 import java.util.*;
 
-
 public class p1546 {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
